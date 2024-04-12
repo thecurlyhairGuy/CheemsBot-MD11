@@ -19,24 +19,24 @@ global.socialm = "GitHub: DGXeon" //ur github or insta name
 global.location = "India, Mizoram, Aizawl" //ur location
 
 //new
-global.botname = 'Cheems Bot MD V11' //ur bot name
+global.botname = 'Bot MD V11' //ur bot name
 global.ownernumber = '2349132095836' //ur owner number
 global.ownername = '🦄드림 가이' //ur owner name
 global.websitex = "https://youtu.be/mu5m6aB6P5k"
 global.wagc = "https://whatsapp.com/channel/0029VaG9VfPKWEKk1rxTQD20"
 global.themeemoji = '🪀'
 global.wm = "Xeon Bot Inc."
-global.botscript = 'https://github.com/DGXeon/CheemsBot-MD11' //script link
-global.packname = "Sticker By THE CURLYHAIRGUYBB"
-global.author = "🦄드림 가이 Xeon\n\n+916909137213"
+global.botscript = 'https://github.com/thecurlyhairGuy/CheemsBot-MD11' //script link
+global.packname = "Sticker By THE CURLYHAIRGUY"
+global.author = "🦄드림 가이 Xeon\n\n+2349132095836"
 global.creator = "2349132095836@s.whatsapp.net"
 global.xprefix = '.'
 global.premium = ["2349132095836"] // Premium User
 global.hituet = 0
 
 //bot sett
-global.typemenu = 'v8' // menu type 'v1' => 'v8'
-global.typereply = 'v3' // reply type 'v1' => 'v3'
+global.typemenu = 'v8' // menu type 'v8' => 'v8'
+global.typereply = 'v3' // reply type 'v3' => 'v3'
 global.autoblocknumber = '91' //set autoblock country code
 global.antiforeignnumber = '91' //set anti foreign number country code
 global.welcome = false //welcome/left in groups
